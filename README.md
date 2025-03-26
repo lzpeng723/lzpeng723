@@ -18,6 +18,8 @@
       <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/lzpeng723/lzpeng723/badge" />
     </a>
   </p>
+
+[AI工具集](https://ai-bot.cn)
   
 ###  Hi there,  I'm [lzpeng723](https://lzpeng723.github.io). 👋
 
